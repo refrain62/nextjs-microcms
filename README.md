@@ -16,7 +16,9 @@ $ npm install microcms-js-sdk
 $ npm install html-react-parser
 ```
 
-
+# 動作確認する
+http://localhost:3000/static にアクセスし、
+行をクリックすると詳細ページに遷移する
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).

@@ -40,7 +40,7 @@ export const getList = async (queries?: MicroCMSQueries) => {
 }
 
 // キャリアの詳細を取得
-export const getDetai = async(
+export const getDetail = async(
     contentId: string,
     queries?: MicroCMSQueries
 ) => {
