@@ -6,17 +6,17 @@ https://blog.microcms.io/nextjs13-microcms-rsc/
 $ npx create-next-app@latest --experimental-app nextjs-microcms
 ```
 
-# microCMSのランタイム追加
+## microCMSのランタイム追加
 ```
 $ npm install microcms-js-sdk
 ```
 
-# HTMLをパースするために、html-react-serを￥インストール
+## HTMLをパースするために、html-react-serを￥インストール
 ```
 $ npm install html-react-parser
 ```
 
-# 動作確認する
+## 動作確認する
 http://localhost:3000/static にアクセスし、
 行をクリックすると詳細ページに遷移する
 
