@@ -6,6 +6,10 @@ https://blog.microcms.io/nextjs13-microcms-rsc/
 $ npx create-next-app@latest --experimental-app nextjs-microcms
 ```
 
+# microCMSのランタイム追加
+```
+$ npm install microcms-js-sdk
+```
 
 
 
